@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        ".env*": "dotenv",
+        "new": "cpp",
+        "stdio.h": "c",
+        "ostream": "cpp",
+        "array": "c",
+        "string": "c",
+        "vector": "cpp"
+    }
+}
